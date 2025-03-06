@@ -21,7 +21,7 @@ def run(question: str):
     inputs = {"topic": "AI Legislation", "question": question}
 
     try:
-        RegulationAdvisorV2().crew().kickoff(inputs=inputs)
+        return RegulationAdvisorV2().crew().kickoff(inputs=inputs)
     except Exception as e:
         raise Exception(f"An error occurred while running the crew: {e}")
 

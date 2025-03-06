@@ -32,7 +32,7 @@ class QueryRequest(BaseModel):
 async def kickoff_crew_endpoint(request: QueryRequest):
     try:
         result = run(request.question)
-        return {"success": True, "data": result}
+        return {"success": True, "message": result.model_dump_json(indent=2)}
     except Exception as e:
         logging.error(f"Error answering question: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
