@@ -1,0 +1,154 @@
+The following has special meaning:
+green underline denotes added text
+red struck out text denotes deleted text
+Powered by State Net
+2023 CA S 892	
+Author:	Padilla
+Version:	Enrolled
+Version Date:	09/06/2024
+AMENDED IN SENATE April 01, 2024
+
+AMENDED IN SENATE April 10, 2024
+
+AMENDED IN ASSEMBLY June 21, 2024
+
+AMENDED IN ASSEMBLY July 03, 2024
+
+AMENDED IN ASSEMBLY August 19, 2024
+
+PASSED ASSEMBLY August 28, 2024
+
+PASSED SENATE August 31, 2024
+
+ENROLLED September 05, 2024
+
+CALIFORNIA LEGISLATURE--2023-2024 REGULAR SESSION
+
+Senate Bill
+
+No. 892
+
+Introduced by Senator Padilla
+
+January 03, 2024
+
+(Coauthors: Senators Rubio and Smallwood-Cuevas)
+
+An act to add Section 12100.1 to the Public Contract Code, relating to public contracts.
+
+LEGISLATIVE COUNSEL'S DIGEST
+
+SB 892, Padilla. Public contracts: automated decision systems: procurement standards.
+
+Existing law requires all contracts for the acquisition of information technology goods and services related to information technology projects, as defined, to be made by or under the supervision of the Department of Technology. Existing law requires all other contracts for the acquisition of information technology goods or services to be made by or under the supervision of the Department of General Services. Under existing law, both the Department of Technology and the Department of General Services are authorized to delegate their authority to another agency, as specified.
+
+This bill would require the Department of Technology to develop and adopt regulations to create an automated decision system (ADS) procurement standard. To develop those regulations, the bill would require the department to consider principles and industry standards addressed in specified publications regarding AI risk management. The bill would require the ADS procurement standard to include, among other things, a detailed risk assessment procedure that analyzes specified characteristics of the ADS, methods for appropriate risk controls, as provided, and adverse incident monitoring procedures. The bill would require the department to, among other things, collaborate with specified organizations to develop the ADS procurement standard and review and update the ADS procurement standard and related regulations, as specified.
+
+Commencing January 1, 2027, this bill would prohibit a state agency from procuring an ADS, entering into a contract for an ADS, or any service that utilizes an ADS, as specified, until the department has adopted regulations creating an ADS procurement standard. Commencing January 1, 2027, the bill would also require a contract for an ADS or a service that utilizes an ADS, as specified, to include a clause that, among other things, provides a completed risk assessment of the relevant ADS, as specified, requires adherence to appropriate risk controls, and provides procedures for adverse incident monitoring.
+
+Vote Required: MAJORITY Appropriation: NO Fiscal Committee: YES Local Program: NO Immediate Effect NO Urgency: NO Tax Levy: NO Election: NO Usual Current Expenses: NO Budget Bill: NO Prop 25 Trailer Bill: NO
+
+The people of the State of California do enact as follows:
+
+SECTION 1. Section 12100.1 is added to the Public Contract Code, to read:
+
+12100.1. (a) For purposes of this section, the following definitions apply:
+
+(1) "Artificial intelligence" or "AI" means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.
+
+(2) (A) "Automated decision system" or "ADS" means a computational process derived from machine learning, statistical modeling, data analytics, or artificial intelligence that issues simplified output, including a score, classification, or recommendation, that is used to assist or replace human discretionary decisionmaking and materially impacts natural persons.
+
+(B) "Automated decision system" does not include a spam email filter, firewall, antivirus software, identity and access management tools, calculator, database, dataset, or other compilation of data.
+
+(3) "Department" means the Department of Technology.
+
+(b) The department shall develop and adopt regulations to create an ADS procurement standard.
+
+(1) To develop regulations related to the ADS procurement standard, the department shall consider principles and industry standards addressed in relevant publications, including, but not limited to, all of the following:
+
+(A) The Blueprint for an AI Bill of Rights: Making Automated Systems Work for the American People, published by the White House Office of Science and Technology Policy in October 2022.
+
+(B) The Artificial Intelligence Risk Management Framework (AI RMF 1.0), released by the National Institute of Standards and Technology (NIST) in January 2023.
+
+(C) The Risk Management Framework for the Procurement of Artificial Intelligence (RMF PAIS 1.0), authored by the AI Procurement Lab and the Center for Inclusive Change in 2024.
+
+(D) The Advancing Governance, Innovation, and Risk Management for Agency Use of Artificial Intelligence Memorandum, published by the Executive Office of the President, Office of Management and Budget, dated March 28, 2024.
+
+(2) The ADS procurement standard shall include all of the following:
+
+(A) A detailed risk assessment procedure that analyzes all of the following:
+
+(i) Organizational and supply chain governance associated with the ADS.
+
+(ii) The purpose and use of the ADS.
+
+(iii) Any known potential misuses or abuses of the ADS.
+
+(iv) An assessment of the legality, traceability, and provenance of the data the ADS uses and the legality of the output of the ADS.
+
+(v) The robustness, accuracy, and reliability of the ADS.
+
+(vi) The interpretability and explainability of the ADS.
+
+(B) Methods for appropriate risk controls between the state agency and ADS vendor, including, but not limited to, reducing the risk through various mitigation strategies, eliminating the risk, or sharing the risk.
+
+(C) Adverse incident monitoring procedures.
+
+(D) Identification and classification of prohibited use cases and applications of ADS that the state shall not procure.
+
+(E) A detailed equity assessment that analyzes, at a minimum, all of the following:
+
+(i) The individuals and communities that will interact with the ADS.
+
+(ii) How the information or decisions generated by the ADS will impact an individual's rights, freedoms, economic status, health, health care, or well-being.
+
+(iii) Any issues that may arise if the ADS is inaccurate.
+
+(iv) How users with diverse abilities will interact with the user interface of the ADS and whether the ADS integrates and interacts with commonly used assistive technologies.
+
+(F) An assessment that analyzes the level of human oversight associated with the use of ADS.
+
+(G) Adherence to data minimization standards, including that an ADS vendor shall only use information provided by or obtained from an agency to provide the specific service authorized by the agency. Further, the data collected may not be used for training of proprietary vendor or third-party systems.
+
+(3) In developing the ADS procurement standard, the department shall do all of the following:
+
+(A) Collaborate with organizations that represent state and local government employees and industry experts, including, but not limited to, public trust and safety experts, community-based organizations, civil society groups, academic researchers, and research institutions focused on responsible ADS procurement, design, and deployment.
+
+(B) Consult with the California Privacy Protection Agency.
+
+(C) Solicit public comment on the ADS procurement standard.
+
+(4) (A) Subject to subparagraph (B), the department shall adopt regulations pursuant to this subdivision in accordance with the provisions of Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code.
+
+(B) Regulations adopted by the department pursuant to subparagraph (A) shall not contradict either of the following:
+
+(i) Regulations adopted by the California Privacy Protection Agency pursuant to paragraph (16) of subdivision (a) of Section 1798.185 of the Civil Code.
+
+(ii) Statewide legislation that establishes a regulatory framework governing the development and deployment of ADSs.
+
+(5) Commencing January 1, 2026, and annually thereafter, the department shall review and update both of the following:
+
+(A) The ADS procurement standard.
+
+(B) Regulations adopted pursuant to this subdivision.
+
+(c) Commencing January 1, 2027, a state agency shall not procure an ADS, enter into a contract for an ADS, or enter into a contract for any service that utilizes an ADS, prior to the adoption of regulations by the department pursuant to subdivision (b).
+
+(d) Commencing January 1, 2027, a state agency may enter into a contract for an ADS, or a service that utilizes an ADS only after the department has adopted regulations pursuant to subdivision (b) and only if the contract includes a clause that does all of the following:
+
+(1) Provides a completed risk assessment of the relevant ADS that analyzes the items included in subparagraph (A) of paragraph (2) of subdivision (b).
+
+(2) Requires the state agency or the ADS vendor, or both, to adhere to appropriate procurement standards.
+
+(3) Provides procedures for adverse incident monitoring.
+
+(4) Requires authorization from the state agency before deployment of ADS upgrades and enhancements.
+
+(5) Requires the state agency or the ADS vendor, or both, to provide notice to individuals that would likely be affected by the decisions or outcomes of the ADS, and information about how to appeal or opt out of ADS decisions or outcomes.
+
+(6) Provides a termination right in the event of a significant breach of responsibility or violation by the vendor.
+
+(e) Subdivisions (c) and (d) do not apply to projects approved before January 1, 2027, through the annual budget process.
+
+
+Copyright © 2025 State Net

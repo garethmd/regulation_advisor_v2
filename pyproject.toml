@@ -1,0 +1,23 @@
+[project]
+name = "regulation_advisor_v2"
+version = "0.1.0"
+description = "regulation_advisor_v2 using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.102.0,<1.0.0"
+]
+
+[project.scripts]
+regulation_advisor_v2 = "regulation_advisor_v2.main:run"
+run_crew = "regulation_advisor_v2.main:run"
+train = "regulation_advisor_v2.main:train"
+replay = "regulation_advisor_v2.main:replay"
+test = "regulation_advisor_v2.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"

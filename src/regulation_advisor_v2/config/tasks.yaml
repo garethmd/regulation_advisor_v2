@@ -1,0 +1,26 @@
+research_task:
+  description: >
+    Conduct a thorough research about {topic} and its relevance to {question}.
+    Make sure you find any interesting and relevant information, taking into 
+    account the jurisdiction of the {topic}.
+  expected_output: >
+    A summary of each relevant {topic} bill necessary to answer {question}
+  agent: researcher
+
+regulatory_compliance_task:
+  description: >
+    Complete an assessment of {topic} and its relevance to {question} from the context
+    you got, assess the implications of each topic and write a summarise the 
+    implications of each topic and recommend actions to consider.
+  expected_output: >
+    A commentary of implications and recommendations for each topic
+  agent: regulatory_compliance_analyst
+
+reporting_task:
+  description: >
+    Review the context you got and expand each topic into a full section for a report.
+    Make sure the report is detailed and contains any and all relevant information.
+  expected_output: >
+    A fully fledged report with the main topics, each with a full section of information.
+    Formatted as markdown without '```'
+  agent: reporting_analyst
