@@ -3,7 +3,7 @@ import sys
 import warnings
 from datetime import datetime
 
-from crew import RegulationAdvisorV2
+from .crew import RegulationAdvisorV2
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
@@ -13,11 +13,11 @@ warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 # interpolate any tasks and agents information
 
 
-def run():
+def run(question: str):
     """
     Run the crew.
     """
-    question = input("what is your question?")
+    # question = input("what is your question?")
     inputs = {"topic": "AI Legislation", "question": question}
 
     try:
